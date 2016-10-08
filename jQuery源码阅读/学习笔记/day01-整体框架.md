@@ -10,4 +10,7 @@
 })();
 ```
 
+##什么是Sizzle.js
+>大家都知道，Sizzle是jQuery的御用选择器引擎，是jQuery作者John Resig写的DOM选择器引擎，速度号称业界第一。
 
+##TO Be Continue...
