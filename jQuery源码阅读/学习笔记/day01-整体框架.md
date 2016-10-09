@@ -6,6 +6,10 @@
     //(96, 283) 给JQ对象添加一些属性和方法
     //(285, 347）extend JQ的继承方法
     //(349, 817) jQuery.extend() jQuery扩展一些工具方法
+    //(877, 2856) Sizzle: 复杂选择器的实现
+    //(2880, 3042) Callbacks: 回调对象---对函数的统一管理
+    //(3043, 3183) Deferred: 延时对象---对异步的统一管理
+    //others 兼容性检查
     //8826 window.jQuery = window.$ = jQuery 将jQuery暴露给用户
 })();
 ```
